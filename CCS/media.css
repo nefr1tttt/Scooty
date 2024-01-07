@@ -1,0 +1,43 @@
+
+/* Decktop */
+@media (max-width: 1440px) {}
+@media (max-width: 1320px) {}
+@media (max-width: 1290px) {}
+@media (max-width: 1170px) {}
+@media (max-width: 1140px) {}
+@media (max-width: 1024px) {}
+/* tab */
+@media (max-width: 992px) {
+    .menu__cards{
+        display: flex;
+        column-gap: 150px;
+    }
+    .header__bg{
+     width: 922px;
+    }
+    .header__nav{
+        
+    }
+    .header__bg-path1{
+       display: none;
+    }
+    .header__bg-path2{
+        display: none;              
+     }
+}
+@media (max-width: 850px) {}
+/* mobile */
+@media (max-width: 768px) {}
+@media (max-width: 734px) {}
+@media (max-width: 684px) {
+    .menu__cards{
+        
+
+}   }
+@media (max-width: 667px) {}
+/* mobile < 576  */
+@media (max-width: 576px) {}
+@media (max-width: 480px) {}
+@media (max-width: 412px) {}
+@media (max-width: 375px) {}
+@media (max-width: 320px) {}
